@@ -9,3 +9,6 @@
 1. Tap the ▶️ button
 1. Select the AR button in the toolbar, and enjoy the store!
 ![Instructions for enabling AR in Reality Composer](instructions.jpg)
+
+## License
+This project includes many of Apple's product files that I do not own. Feel free to remix and share this project, and all I ask is for an attribution. 
